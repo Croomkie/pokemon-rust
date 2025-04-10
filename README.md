@@ -1,0 +1,5 @@
+## Démarrage
+
+```makefile
+cargo run
+```
